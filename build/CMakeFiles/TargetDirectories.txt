@@ -1,3 +1,0 @@
-/home/digitql/Desktop/Projects/Simple-Dynamic-Array-in-C/build/CMakeFiles/main.dir
-/home/digitql/Desktop/Projects/Simple-Dynamic-Array-in-C/build/CMakeFiles/edit_cache.dir
-/home/digitql/Desktop/Projects/Simple-Dynamic-Array-in-C/build/CMakeFiles/rebuild_cache.dir
