@@ -1,0 +1,4 @@
+# ninja log v5
+0	18	1746213883057671252	CMakeFiles/main.dir/src/main.c.o	47f760dbca3eb6
+1	55	1746212888532457702	CMakeFiles/main.dir/src/dynamic_array.c.o	47eb400575de7268
+18	32	1746213883070671856	bin/main	ad0c734d7913d2ab
